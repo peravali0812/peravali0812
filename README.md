@@ -2,11 +2,14 @@
 
 My major focus is on Open-source CFD (OpenFOAM), Discrete flow methods (DSMC and SPH), Computational Physics, Multiphase flows, Turbulence Modelling, High Performance Computing.
 
+<br/>
 
 ### Languages and Tools:
+[python](https://www.python.org/) , [Julia](https://julialang.org/)
 
-[<img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />]
 
+<br />
+---
 👉 Follow me on [Twitter](https://twitter.com/suryakiran_53) or [LinkedIn](https://www.linkedin.com/in/surya-kiran-peravali-b3665221/).
 <!--
 **peravali0812/peravali0812** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
