@@ -1,6 +1,9 @@
 ### Hi, I'm Surya Kiran Peravali 👋
 
 My major focus is on Open-source CFD (OpenFOAM), Discrete flow methods (DSMC and SPH), Computational Physics, Multiphase flows, Turbulence Modelling, High Performance Computing.
+
+
+👉 Follow me on [Twitter](https://twitter.com/suryakiran_53) or [LinkedIn](https://www.linkedin.com/in/surya-kiran-peravali-b3665221/).
 <!--
 **peravali0812/peravali0812** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
