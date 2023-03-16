@@ -4,7 +4,7 @@ My major focus is on Open-source CFD (OpenFOAM), Discrete flow methods (DSMC and
 
 
 
-### Languages:
+### Languages 👩‍💻:
 [C++](https://cplusplus.com/), [Python](https://www.python.org/) , [Julia](https://julialang.org/), [MATLAB](https://in.mathworks.com/products/matlab.html)
 
 ### Tools:
